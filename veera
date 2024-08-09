@@ -1,0 +1,11 @@
+this is a test on all the things ssh-keygen - for creating public key 
+
+this is the process is to create a public key:
+
+check the key created on that paritcular path and paste it on github ssh 
+and gpg keys
+ 
+to test wheather is connect or not ssh -T git@github.com
+ 
+it should get like : Hi MuluguVeeraVamshi! You've successfully 
+authenticated, but GitHub does not provide shell access.
